@@ -7,7 +7,7 @@
 
 import Foundation
 #if !Web3CocoaPods
-    import Web3
+    import Boilertalk_Web3
 #endif
 
 /// A class that can accept invocations and forward to Web3

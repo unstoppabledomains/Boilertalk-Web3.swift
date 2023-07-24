@@ -7,7 +7,7 @@
 
 import Quick
 import Nimble
-@testable import Web3
+@testable import Boilertalk_Web3
 import PromiseKit
 import BigInt
 import Foundation

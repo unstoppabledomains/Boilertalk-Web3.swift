@@ -8,7 +8,7 @@
 import Foundation
 import BigInt
 #if !Web3CocoaPods
-    import Web3
+    import Boilertalk_Web3
 #endif
 
 class ABIDecoder {

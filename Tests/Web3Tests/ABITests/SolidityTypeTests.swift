@@ -7,7 +7,7 @@
 //
 
 import XCTest
-import Web3
+import Boilertalk_Web3
 import BigInt
 #if canImport(Web3ContractABI)
     @testable import Web3ContractABI

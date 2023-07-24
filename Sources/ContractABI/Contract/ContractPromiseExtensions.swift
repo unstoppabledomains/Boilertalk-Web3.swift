@@ -11,7 +11,7 @@
 import PromiseKit
 
 #if !Web3CocoaPods
-    import Web3
+    import Boilertalk_Web3
 #endif
 
 // MARK: - Extensions

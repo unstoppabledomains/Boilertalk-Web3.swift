@@ -7,7 +7,7 @@
 
 import Foundation
 #if !Web3CocoaPods
-    import Web3
+    import Boilertalk_Web3
 #endif
 
 /// Base protocol all contracts should adopt.

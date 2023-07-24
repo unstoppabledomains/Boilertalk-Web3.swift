@@ -109,7 +109,7 @@ your target dependencies (and later import them) if you want to use them.
 After the installation you can import `Web3` in your `.swift` files.
 
 ```Swift
-import Web3
+import Boilertalk_Web3
 
 // Optional
 import Web3PromiseKit

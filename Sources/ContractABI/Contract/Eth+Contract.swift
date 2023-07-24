@@ -7,7 +7,7 @@
 
 import Foundation
 #if !Web3CocoaPods
-    import Web3
+    import Boilertalk_Web3
 #endif
 
 public enum ContractParsingError: Error, LocalizedError {
