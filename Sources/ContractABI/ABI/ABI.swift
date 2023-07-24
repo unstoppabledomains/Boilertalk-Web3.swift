@@ -8,7 +8,7 @@
 import Foundation
 import BigInt
 #if !Web3CocoaPods
-    import Boilertalk-Web3.swift
+    import Boilertalk_Web3
 #endif
 
 /// ABI Namespace
