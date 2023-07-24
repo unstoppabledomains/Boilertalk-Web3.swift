@@ -8,7 +8,7 @@
 
 import PromiseKit
 #if !Web3CocoaPods
-    import Web3
+    import Boilertalk-Web3.swift
 #endif
 
 public protocol Promisable {
